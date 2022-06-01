@@ -15,7 +15,7 @@
 		"position": { "letter": ["b", "g"], "number": 8 }
 	},
 	{
-		"name": "Bishope",
+		"name": "Bishop",
 		"amount": 2,
 		"alias": "bb",
 		"position": { "letter": ["c", "f"], "number": 8 }
